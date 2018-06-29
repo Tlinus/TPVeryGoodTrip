@@ -1,0 +1,6 @@
+img.thumb {
+  height: 75px;
+  border: 1px rgb(127, 127, 127) solid;
+  border-radius: 4px;
+  margin: 4px
+}
